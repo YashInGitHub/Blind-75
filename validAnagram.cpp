@@ -19,8 +19,8 @@ using namespace std;
 */
 
 int main(){
-    string s = "anagram";
-    string t = "nagaram";
+    string s = "rat";
+    string t = "car";
 
     bool flag = true;
 
